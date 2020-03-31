@@ -1,0 +1,78 @@
+body{
+  text-align: center;
+  margin: 0;
+  background-color: #f1f3f4;
+}
+.intro1{
+  font-size: 31px;
+  font-weight: normal;
+  font-family: 'Gruppo', cursive;
+}
+.intro2{
+  width: 30%;
+  margin: auto;
+}
+.TeamBuilder{
+  text-align: left;
+  margin: auto;
+  border: 1px solid black;
+  border-top-width: medium;
+  border-top-color: red;
+  width: 300px;
+  height: 200px;
+  padding: 10px;
+  box-shadow: 10px 10px 5px grey;
+  border-radius: 10px;
+}
+.supervisor{
+  text-align: left;
+  margin: auto;
+  border: 1px solid black;
+  border-top-width: medium;
+  border-top-color: #05dfd7;
+  border-radius: 10px;
+  width: 300px;
+  height: 200px;
+  padding: 10px;
+  box-shadow: 10px 10px 5px grey;
+  position: absolute;
+  left: 200px;
+  top: 120px;
+}
+.karma{
+  text-align: left;
+  margin: auto;
+  border: 1px solid black;
+  border-top-width: medium;
+  border-top-color: #ffba5a;
+  width: 300px;
+  height: 200px;
+  padding: 10px;
+  box-shadow: 10px 10px 5px grey;
+  position: absolute;
+  border-radius: 10px;
+  top: 250px;
+  left: 560px;
+}
+.calculator{
+  text-align: left;
+  margin: auto;
+  border: 1px solid black;
+  border-top-width: medium;
+  border-top-color: #4f98ca;
+  width: 300px;
+  height: 200px;
+  padding: 10px;
+  box-shadow: 10px 10px 5px grey;
+  position: absolute;
+  right: 200px;
+  top: 120px;
+  border-radius: 10px;
+}
+img{
+  float: right;
+}
+.layout{
+  margin-top: 50px;
+  position: relative;
+}
